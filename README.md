@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -233,3 +234,6 @@ The project follows Laravel's MVC architecture:
 - Migrations : Located in database/migrations/
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+=======
+# Toursim
+>>>>>>> 2936e5cdc6b199116d2594b94a0239663b7e314b
